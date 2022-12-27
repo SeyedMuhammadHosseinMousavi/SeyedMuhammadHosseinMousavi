@@ -1,7 +1,3 @@
-
-<!--
-**SeyedMuhammadHosseinMousavi/SeyedMuhammadHosseinMousavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on combining optimization algorithms and image/signal processing methods. 
 - 🌱 I’m currently learning deep and reinforcement learning techniques.
 - 👯 I’m looking to collaborate on energy/power optimization using AI. 
