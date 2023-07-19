@@ -1,9 +1,9 @@
-- 🔭 I’m currently working on combining optimization algorithms and image/signal processing methods. 
+- 🔭 I’m currently working on synthetic data generation, optimization, emotion recognition, and extended reality. 
 - 🌱 I’m currently learning deep and reinforcement learning techniques.
 - 👯 I’m looking to collaborate on energy/power optimization using AI. 
-- 🤔 I’m looking for help with any guide on augmented reality applications by python.
+- 🤔 I’m looking for help with any guide on augmented reality applications by Python.
 - 💬 Ask me about depth image processing (infrared data).
-- 📫 How to reach me: mosavi.a.i.buali@gmail.com and seyed.mousavi@supsi.ch and mousah@usi.ch
+- 📫 How to reach me: mosavi.a.i.buali@gmail.com and seyed.mousavi@supsi.ch, hossein-mousavi@ieee.org, and mousah@usi.ch
 - ⚡ Fun fact: The whole machine learning is different variations of weights and biases. 
 - My MathWorks:
 - https://www.mathworks.com/matlabcentral/profile/authors/9763916
