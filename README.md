@@ -3,7 +3,7 @@
 - 👯 I’m looking to collaborate on energy/power optimization using AI. 
 - 🤔 I’m looking for help with any guide on augmented reality applications by Python.
 - 💬 Ask me about depth image processing (infrared data).
-- 📫 How to reach me: mosavi.a.i.buali@gmail.com and seyed.mousavi@supsi.ch, hossein-mousavi@ieee.org, and mousah@usi.ch
+- 📫 How to reach me: mosavi.a.i.buali@gmail.com or seyed.mousavi@supsi.ch or hossein-mousavi@ieee.org or mousah@usi.ch
 - ⚡ Fun fact: The whole machine learning is different variations of weights and biases. 
 - My MathWorks:
 - https://www.mathworks.com/matlabcentral/profile/authors/9763916
