@@ -1,3 +1,5 @@
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=username.username)
+
 - 🔭 I’m currently working on synthetic data generation, optimization, emotion recognition, and extended reality. 
 - 🌱 I’m currently learning deep and reinforcement learning techniques.
 - 👯 I’m looking to collaborate on energy/power optimization using AI. 
