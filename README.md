@@ -2,9 +2,7 @@
 
 ![Stars](https://img.shields.io/github/stars/SeyedMuhammadHosseinMousavi?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SeyedMuhammadHosseinMousavi.SeyedMuhammadHosseinMousavi)
 
-![GitHub Calendar](https://github-readme-stats.vercel.app/api/pin/?username=SeyedMuhammadHosseinMousavi&repo=github-readme-stats)
 
 
 - 🔭 I’m currently working on synthetic data generation, optimization, emotion recognition, and extended reality. 
