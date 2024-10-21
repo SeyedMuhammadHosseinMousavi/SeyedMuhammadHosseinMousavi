@@ -1,4 +1,4 @@
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=username.username)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=username.username) Since Oct 2024
 
 ![Stars](https://img.shields.io/github/stars/SeyedMuhammadHosseinMousavi?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
