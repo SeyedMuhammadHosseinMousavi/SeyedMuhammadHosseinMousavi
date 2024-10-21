@@ -4,7 +4,8 @@
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SeyedMuhammadHosseinMousavi.SeyedMuhammadHosseinMousavi)
 
-![Gists](https://img.shields.io/github/gists/SeyedMuhammadHosseinMousavi?style=social)
+![GitHub Calendar](https://github-readme-stats.vercel.app/api/pin/?username=SeyedMuhammadHosseinMousavi&repo=github-readme-stats)
+
 
 - 🔭 I’m currently working on synthetic data generation, optimization, emotion recognition, and extended reality. 
 - 🌱 I’m currently learning deep and reinforcement learning techniques.
