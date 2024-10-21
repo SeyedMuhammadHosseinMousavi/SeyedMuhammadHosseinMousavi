@@ -1,4 +1,5 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=username.username)
+![Stars](https://img.shields.io/github/stars/SeyedMuhammadHosseinMousavi?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 - 🔭 I’m currently working on synthetic data generation, optimization, emotion recognition, and extended reality. 
 - 🌱 I’m currently learning deep and reinforcement learning techniques.
