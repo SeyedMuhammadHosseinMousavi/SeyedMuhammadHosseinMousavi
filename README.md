@@ -10,7 +10,9 @@
 - 👯 I’m looking to collaborate on energy/power optimization using AI. 
 - 💬 Ask me about depth image processing (infrared data).
 - 📫 How to reach me: mosavi.a.i.buali@gmail.com or seyed.mousavi@supsi.ch or hossein-mousavi@ieee.org or mousah@usi.ch
-- ⚡ Fun fact: The whole machine learning is different variations of weights and biases. 
+- ⚡ Fun fact: The whole machine learning is different variations of weights and biases.
+- - My Linkedin:
+- https://www.linkedin.com/in/smuhammadhosseinmousavi/
 - My MathWorks:
 - https://www.mathworks.com/matlabcentral/profile/authors/9763916
 - My IEEE:
