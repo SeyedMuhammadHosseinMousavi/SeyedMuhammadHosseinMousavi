@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning inner speech recording techniques.
 - 👯 I’m looking to collaborate on energy/power optimization using AI. 
 - 💬 Ask me about depth image processing (infrared data).
-- 📫 How to reach me: mosavi.a.i.buali@gmail.com or seyed.mousavi@supsi.ch or hossein-mousavi@ieee.org or mousah@usi.ch
+- 📫 How to reach me: mosavi.a.i.buali@gmail.com 
 - ⚡ Fun fact: The whole machine learning is different variations of weights and biases.
 - - My Linkedin:
 - https://www.linkedin.com/in/smuhammadhosseinmousavi/
