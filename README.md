@@ -3,7 +3,7 @@
 ![Stars](https://img.shields.io/github/stars/SeyedMuhammadHosseinMousavi?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 
-
+![Veteran Coder](https://img.shields.io/badge/Veteran_Coder-Python_+_MATLAB_10%2B_Years-%230077B6?logo=python&logoColor=white)
 
 - 🔭 My name is Seyed Muhammad Hossein Mousavi and, I’m currently working on synthetic data generation, optimization, emotion recognition, and extended reality. 
 - 🌱 I’m currently learning inner speech recording techniques.
