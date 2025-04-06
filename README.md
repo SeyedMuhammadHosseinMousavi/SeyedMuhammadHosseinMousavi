@@ -4,6 +4,7 @@
 
 
 
+
 - 🔭 My name is Seyed Muhammad Hossein Mousavi and, I’m currently working on synthetic data generation, optimization, emotion recognition, and extended reality. 
 - 🌱 I’m currently learning inner speech recording techniques.
 - 👯 I’m looking to collaborate on energy/power optimization using AI. 
